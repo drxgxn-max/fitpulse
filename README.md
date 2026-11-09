@@ -1,2 +1,2 @@
-# fitpulse
+# pulsefit
 gym website demo
